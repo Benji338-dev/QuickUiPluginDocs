@@ -29,7 +29,7 @@ It allows you to, among other things:
 ## 📦 Installation
 
 1. Open a Roblox Studio place.
-2. Oen the ToolBox
+2. Open the ToolBox
 3. Search **QuickUI+** in plugin
 4. Click on the first one
 5. Install it
@@ -82,6 +82,9 @@ It allows you to, among other things:
 ![QuickUI+](images/LogoQuickUi+.png)
 
 ---
+## About the creator
+
+**le_killeur338** is a french roblox dev, 16yo
 
 ## 🛠️ Support
 
