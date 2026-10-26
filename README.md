@@ -57,6 +57,7 @@ It allows you to, among other things:
      - [Assets](docs/MainPlugin/Frames/Assets.md)
      - [One-TopBar](docs/MainPlugin/Frames/One-TopBar.md)
      - [Texture](docs/MainPlugin/Frames/textureframe.md)
+     - [Vector Creator](docs/MainPlugin/Vector.md)
 - [More Tools](docs/components/text.md)
      - [Convert](docs/components/images.md)
      - [Preset](docs/components/images.md)
