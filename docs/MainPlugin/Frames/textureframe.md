@@ -11,20 +11,14 @@ how to use Texture tools :
 3. select an ImageLabel/ImageButton.
 4. Click on the texture you want to add.
 
-The texture will be added at your Ui as an ImageLabel.
+### Options
 
-( ScaleType = Tyle, TileSize = {0, 100, 0, 100}.
+Before clicking a texture, you can choose how it is displayed:
 
+| Option | Description |
+|---|---|
+| **Scale Type** | **Stretch**, **Crop**, **Fit** or **Tile**. The default is **Tile**. |
+| **Tile Size** (X / Y) | The size of one tile, in pixels (default `100` x `100`). Only used with the **Tile** scale type. |
+| **Image Transparency** / **Image Color** | Coming soon. |
 
-## More Info
-
-You can change the **ScaleType** : 
-  - Scretch
-  - Crop
-  - Fit
-  - Tile
-
-To know what you need, refeer to https://create.roblox.com/docs/fr-fr/reference/engine/enums/ScaleType .
-
-
-You can also change the tile size to what you need.
+When you click a texture, it is applied to **all selected** `ImageLabel` and `ImageButton` (the `Image` and `ScaleType` properties, and `TileSize` for Tile). You can undo it with `Ctrl + Z`.
